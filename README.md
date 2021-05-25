@@ -2,8 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Author: Marcus Lorenzana
-Date: 05/25/2021
+Following along PluralSight "React: Getting Started" course by Samer Buna
 
 ## Available Scripts
 
